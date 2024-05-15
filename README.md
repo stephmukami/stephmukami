@@ -19,8 +19,10 @@
 </div>
 <p>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami,a Computer Science Student with a passion in Web Development and an interest in UI/UX,Cloud Computing and learning new technologies.
-I am currently learning React and would love to collaborate on innovative web projects.I also love watching  sitcoms and listening to soul music.
+ I'm Stephanie Mukami,a Computer Science Student with a passion in Web Development and an interest in UI/UX, and learning new technologies.
+I am currently learning Next.js and would love to collaborate on innovative web projects.
+ <br>
+I also love watching  sitcoms and listening to soul music.
 <h4>Tools & Technologies I've worked with: <h4/>
 <p>
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -33,6 +35,10 @@ I am currently learning React and would love to collaborate on innovative web pr
 <img height ="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
+ <p>
+  - 📫 How to reach me: <a href="">Linked In</a> or shoot me an email at stephmukami@gmail.com
+  - ⚡ Fun fact: I absolutely love herbal teas ...got any plugs?
+ </p>
   <img  src="https://github.com/stephkariuki19/stephkariuki19/blob/output/github-contribution-grid-snake.gif"/>
   
 </p>
