@@ -39,7 +39,8 @@ I also love watching  sitcoms and listening to soul music.
   <h5>- 📫 How to reach me:</h5>
   
   <a href="">Linked In</a> or shoot me an email at stephmukami@gmail.com
-  - ⚡ Fun fact: I absolutely love herbal teas ...got any plugs?
+  <h5>- ⚡ Fun fact</h5>
+  I absolutely love herbal teas ...got any plugs?
  </p>
   <img  src="https://github.com/stephkariuki19/stephkariuki19/blob/output/github-contribution-grid-snake.gif"/>
   
