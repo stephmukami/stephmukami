@@ -19,7 +19,7 @@
 </div>
 <p>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami,a Computer Science Student with a passion in Web Development and an interest in UI/UX, and learning new technologies.
+ I'm Stephanie Mukami,a Software Engineer with a passion in Web Development, and learning new technologies.
 I am currently learning Next.js and would love to collaborate on innovative web projects.
  <br>
 I also love watching  sitcoms and listening to soul music.
