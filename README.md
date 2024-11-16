@@ -20,8 +20,10 @@
 <p>
 <h4>A little about me.🎇</h4> 
  I'm Stephanie Mukami,a Software Engineer and  machine learning enthusist. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
+ <br>
  With strong expertise in web development and data engineering, I aspire to increase my repertoire to excel at a T-shaped engineer.
  I am currently learning how to scale up distributed systems in clean code and how to make them smarter using AI.
+ <br>
  I would love to connect and collaborate on interesting projects. Feel free to reach out ! 😊
 
  <br>
