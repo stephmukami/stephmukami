@@ -19,10 +19,13 @@
 </div>
 <p>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami,a Software Engineer with a passion in Web Development, and learning new technologies.
-I am currently learning Next.js and would love to collaborate on innovative web projects.
+ I'm Stephanie Mukami,a Software Engineer and  machine learning enthusist. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
+ With strong expertise in web development and data engineering, I aspire to increase my repertoire to excel at a T-shaped engineer.
+ I am currently learning how to scale up distributed systems in clean code and how to make them smarter using AI.
+ I would love to connect and collaborate on interesting projects. Feel free to reach out ! 😊
+
  <br>
-I also love watching  sitcoms and listening to soul music.
+PS: I also love watching  sitcoms and listening to soul music.
 <h4>Tools & Technologies I've worked with: <h4/>
 <p>
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
