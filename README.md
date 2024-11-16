@@ -24,8 +24,11 @@
  With strong expertise in web development and data engineering, I aspire to increase my repertoire to excel at a T-shaped engineer.
  I am currently learning how to scale up distributed systems in clean code and how to make them smarter using AI.
  <br>
- I would love to connect and collaborate on interesting projects. Feel free to reach out ! 😊
+ I would love to connect and collaborate on interesting projects.
+ <br>
+ Feel free to reach out ! 😊
 
+ <br>
  <br>
 PS: I also love watching  sitcoms and listening to soul music.
 <h4>Tools & Technologies I've worked with: <h4/>
