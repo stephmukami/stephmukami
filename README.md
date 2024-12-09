@@ -18,6 +18,8 @@
 
 </div>
 <p>
+ <br>
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
 <h4>A little about me.🎇</h4> 
  I'm Stephanie Mukami,a Software Engineer and  machine learning enthusist. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
  <br>
