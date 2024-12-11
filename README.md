@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20GitHub!%20&animation=scaleIn&fontSize=70&textBg=true" />
-<h1>Glad you're here,lets connect😊 <h1/>
+<h1>Glad you're here,let's connect😊 <h1/>
 <a href="https://www.linkedin.com/in/stephanie-mukami-4b1129202">
  <img height="50" src="https://user-images.githubusercontent.com/110028520/189325942-352c6176-253b-4b67-a2f7-9625cd05a788.png"/>
 </a>
@@ -15,7 +15,7 @@
  <br>
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami,a Software Engineer and  machine learning enthusiast. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
+ I'm Stephanie Mukami,a Software Engineer and  Machine Learning enthusiast. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
  <br>
  With strong expertise in web development and data engineering, I aspire to increase my repertoire to excel at a T-shaped engineer.
  I am currently learning how to scale up distributed systems in clean code and how to make them smarter using AI.
