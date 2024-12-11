@@ -21,7 +21,7 @@
  <br>
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami,a Software Engineer and  machine learning enthusist. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
+ I'm Stephanie Mukami,a Software Engineer and  machine learning enthusiast. I marvel at the sheer power of technology and I am on a mission to understand the tech concepts that shape our modern day world.
  <br>
  With strong expertise in web development and data engineering, I aspire to increase my repertoire to excel at a T-shaped engineer.
  I am currently learning how to scale up distributed systems in clean code and how to make them smarter using AI.
